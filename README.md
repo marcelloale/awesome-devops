@@ -27,6 +27,8 @@ Contribuições são bem vindas!
 
 ## Ansible
 
+* [Minicurso Nic.br - Gerenciando sua infraestrutura como código com Ansible - Hector Vido Silva (Red Hat)](https://youtu.be/uPaNHy5g7PM)
+
 ## AWS
 
 ### Cursos
